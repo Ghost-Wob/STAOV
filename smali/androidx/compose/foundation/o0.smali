@@ -1,0 +1,59 @@
+.class public final synthetic Landroidx/compose/foundation/o0;
+.super Ljava/lang/Object;
+.source "r8-map-id-e907cdfad2df14fd92982b00c76004907cc554632fe47bc57470e213e2fdbf5b"
+
+# interfaces
+.implements Lq7/e;
+
+
+# virtual methods
+.method public final invoke(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+    .locals 0
+
+    .line 1
+    check-cast p1, Landroidx/compose/runtime/saveable/SaverScope;
+
+    .line 2
+    .line 3
+    check-cast p2, Landroidx/compose/foundation/ScrollState;
+
+    .line 4
+    .line 5
+    invoke-static {p1, p2}, Landroidx/compose/foundation/ScrollState;->b(Landroidx/compose/runtime/saveable/SaverScope;Landroidx/compose/foundation/ScrollState;)Ljava/lang/Integer;
+
+    .line 6
+    .line 7
+    .line 8
+    move-result-object p1
+
+    .line 9
+    return-object p1
+    .line 10
+    .line 11
+    .line 12
+    .line 13
+    .line 14
+    .line 15
+    .line 16
+    .line 17
+    .line 18
+    .line 19
+    .line 20
+    .line 21
+    .line 22
+    .line 23
+    .line 24
+    .line 25
+    .line 26
+    .line 27
+    .line 28
+    .line 29
+    .line 30
+    .line 31
+    .line 32
+    .line 33
+    .line 34
+    .line 35
+    .line 36
+    .line 37
+.end method
